@@ -5,7 +5,7 @@ FusionAPIframework is a **high-performance**, **modular**, and **extensible** fr
 ---
 ## **About the Developer**
 
-FusionAPIframework is developed and maintained by ([sagar gondaliya](https://www.linkedin.com/in/sagar-gondaliya/)), a passionate developer dedicated to creating tools that make API development faster, easier, and more efficient. If you have any questions or feedback, feel free to reach out!
+FusionAPIframework is developed and maintained by [ **sagar gondaliya** ](https://www.linkedin.com/in/sagar-gondaliya/), a passionate developer dedicated to creating tools that make API development faster, easier, and more efficient. If you have any questions or feedback, feel free to reach out!
 
 ## **Features**
 
