@@ -179,22 +179,4 @@ FusionAPIframework is licensed under the [MIT License](LICENSE).
 
 ---
 
-### **Key Changes Made**
-1. **Package Name**: Replaced `FusionAPI` with `FusionAPIframework` everywhere in the document.
-2. **Installation Command**: Updated the installation command to use `fusionapiframework`:
-   ```bash
-   npm install -g fusionapiframework
-   ```
-3. **Require Statements**: Updated all `require` statements to use `fusionapiframework`:
-   ```javascript
-   const FusionAPIframework = require('fusionapiframework');
-   ```
-4. **Plugin Names**: Updated plugin names to use `fusionapiframework` as the prefix:
-   - `fusionapiframework-auth`
-   - `fusionapiframework-cache`
-   - `fusionapiframework-file-upload`
-   - `fusionapiframework-graphql`
-   - `fusionapiframework-websocket`
-
----
 
