@@ -191,7 +191,6 @@ We welcome contributions! Please read our [Contributing Guide](CONTRIBUTING.md) 
 ## **License**
 
 FusionAPIframework is licensed under the [MIT License](LICENSE).
-```
 
 ---
 
